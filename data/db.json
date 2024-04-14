@@ -1,0 +1,19 @@
+{
+    "items":[
+        {
+            "id": 1,
+            "isChecked":false,
+            "doto":"visit balachandra.in"
+        },
+        {
+            "id": 2,
+            "isChecked":false,
+            "doto":"block chain"
+        },
+        {
+            "id": 3,
+            "isChecked":false,
+            "doto":"AI"
+        }
+    ]
+}
